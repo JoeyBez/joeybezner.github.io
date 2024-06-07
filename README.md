@@ -2,7 +2,7 @@
 
 <ul>
   
-<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 1</a> - Getting started with Node.js and recalling basic JavaScript. </li>
+<li><a href="https://joeybez.github.io/cit281-p1/">Project 1</a> - Getting started with Node.js and recalling basic JavaScript. </li>
   <ul>
   <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 1</a> - Basic functions. </li>
   </ul>
