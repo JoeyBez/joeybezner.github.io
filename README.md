@@ -1,6 +1,6 @@
 # CIT 281
 
-Project 1 - Getting started with Node.js and recalling basic JavaScript.
+[Project 1](https://joeybez.github.io/joeybezner.github.io/) - Getting started with Node.js and recalling basic JavaScript.
 
 Project 2 - Practice using arrow functions and array data.
 
