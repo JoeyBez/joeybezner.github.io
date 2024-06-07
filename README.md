@@ -1,17 +1,39 @@
 # CIT 281
 
-[Project 1](https://joeybez.github.io/joeybezner.github.io/) - Getting started with Node.js and recalling basic JavaScript.
-  [Lab 1](https://joeybez.github.io/joeybezner.github.io/) - Basic functions.
-[Project 2](https://joeybez.github.io/joeybezner.github.io/) - Practice using arrow functions and array data.
-  [Lab 2](https://joeybez.github.io/joeybezner.github.io/) - Git ignore.
-[Project 3](https://joeybez.github.io/joeybezner.github.io/) - Using fastify to make a simple server web page to display coin data.
-  [Lab 3](https://joeybez.github.io/joeybezner.github.io/) - Arrow functions.
-  [Lab 4](https://joeybez.github.io/joeybezner.github.io/) - Practice with fastify querys.
-[Project 4](https://joeybez.github.io/joeybezner.github.io/) - Another fastify server, using querys to display questions and answers.
-  [Lab 5](https://joeybez.github.io/joeybezner.github.io/) - Request params.
-[Project 5](https://joeybez.github.io/joeybezner.github.io/) - Using classes to make a short, text only video game.
-[Project 6](https://joeybez.github.io/joeybezner.github.io/) - More practice with classes, this time to determine math operations on shapes.
-  [Lab 6](https://joeybez.github.io/joeybezner.github.io/) - Classes practice.
-  [Lab 7](https://joeybez.github.io/joeybezner.github.io/) - Creating and testing errors.
-[Project 7](https://joeybez.github.io/joeybezner.github.io/) - Creating this GitHub pages site.
-  [Lab 8](https://joeybez.github.io/joeybezner.github.io/) - Getting JSON data from outside site.
+<ul>
+  
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 1</a> - Getting started with Node.js and recalling basic JavaScript. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 1</a> - Basic functions. </li>
+  </ul>
+  
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 2</a> - Practice using arrow functions and array data. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 2</a> - Git ignore. </li>
+  </ul>
+
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 3</a> - Using fastify to make a simple server web page to display coin data. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 3</a> - Arrow functions. </li>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 4</a> - Practice with fastify querys. </li>
+  </ul>
+
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 4</a> - Another fastify server, using querys to display questions and answers. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 5</a> - Request params. </li>
+  </ul>
+
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 5</a> - Using classes to make a short, text only video game. </li>
+
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 6</a> - More practice with classes, this time to determine math operations on shapes. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 6</a> - Classes practice. </li>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 7</a> - Creating and testing errors. </li>
+  </ul>
+
+<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 7</a> - Creating this GitHub pages site. </li>
+  <ul>
+  <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 8</a> -  Getting JSON data from outside site. </li>
+  </ul>
+</ul>
+
