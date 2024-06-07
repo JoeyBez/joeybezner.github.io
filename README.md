@@ -7,7 +7,7 @@
   <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 1</a> - Basic functions. </li>
   </ul>
   
-<li><a href="https://joeybez.github.io/joeybezner.github.io/">Project 2</a> - Practice using arrow functions and array data. </li>
+<li><a href="https://joeybez.github.io/cit281-p2/">Project 2</a> - Practice using arrow functions and array data. </li>
   <ul>
   <li><a href="https://joeybez.github.io/joeybezner.github.io/">Lab 2</a> - Git ignore. </li>
   </ul>
