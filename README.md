@@ -33,7 +33,8 @@
 
 <li><a href="https://joeybez.github.io/cit281-p7//">Project 7</a> - Creating this GitHub pages site. </li>
   <ul>
-  <li><a href="https://joeybez.github.io/cit281-l8/">Lab 8</a> -  Getting JSON data from outside site. </li>
+  <li><a href="https://joeybez.github.io/cit281-l8/">Lab 8</a> - Getting JSON data from outside site. </li>
+  <li><a href="https://joeybez.github.io/cit281-l9/">Lab 9</a> - Release Based Workflow. </li>
   </ul>
 </ul>
 
