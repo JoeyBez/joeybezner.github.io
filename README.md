@@ -20,7 +20,7 @@
 
 <li><a href="https://joeybez.github.io/cit281-p4//">Project 4</a> - Another fastify server, using querys to display questions and answers. </li>
   <ul>
-  <li><a href="https://joeybez.github.io/jcit281-l5/">Lab 5</a> - Request params. </li>
+  <li><a href="https://joeybez.github.io/cit281-l5/">Lab 5</a> - Request params. </li>
   </ul>
 
 <li><a href="https://joeybez.github.io/cit281-p5//">Project 5</a> - Using classes to make a short, text only video game. </li>
